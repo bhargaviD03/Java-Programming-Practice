@@ -8,6 +8,7 @@ public class menuItem {
 		private float price;
 		private String description;
 
+
 		public void setRestaurant(int id,String name,float price,String description) {
 			this.id=id;
 			this.name=name;
