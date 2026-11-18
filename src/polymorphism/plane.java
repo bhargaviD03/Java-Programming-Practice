@@ -41,7 +41,7 @@ static class fighterplane extends plane{
 		Airport a = new Airport();
 
 		Scanner sc = new Scanner(System.in);
-		
+		System.out.println("Enter the category you need:");
 		String s= sc.nextLine();
 		
 		if(s.equals("cargoplane")) {
