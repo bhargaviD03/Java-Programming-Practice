@@ -7,7 +7,6 @@ interface shapes1{
 		void calcArea();
 
 }
- 
  class Squares implements shapes1{
 	 Scanner sc = new Scanner(System.in);
 	 float side;
