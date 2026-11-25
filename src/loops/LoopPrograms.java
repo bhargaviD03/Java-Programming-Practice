@@ -88,11 +88,11 @@ public class LoopPrograms {
 	
 	public static void main(String[] args) {
 		LoopPrograms L = new LoopPrograms();
-//		L.sumOfDigits();
-//		L.countDigit();
-//		L.Factors();
-//		L.countFactors();
-//		L.prime();
+		L.sumOfDigits();
+		L.countDigit();
+		L.Factors();
+		L.countFactors();
+		L.prime();
 		L.primecount();
 	}
 
